@@ -1,0 +1,14 @@
+# Python cache files (created automatically when Python runs)
+__pycache__/
+*.pyc
+
+# Virtual environment (can always be recreated)
+venv/
+.venv/
+
+# Secrets like API keys (never commit these)
+.env
+
+# Windows system files
+Thumbs.db
+desktop.ini
