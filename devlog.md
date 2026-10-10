@@ -5,3 +5,5 @@
 
 ## Oct 10, 2026
 - Ticket #1 is completed. The project plan is written in [docs/planning.md](docs/planning.md). The plan includes the problem statement, requirements, MVP definition, design sketch, and open questions.
+- Ticket #2 assigned (connect repo and push to GitHub).
+- Ticket #2 completed. The project is now connected to GitHub and the code is pushed to the repository.
