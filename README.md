@@ -1,3 +1,3 @@
-Desk Buddy
+# Desk Buddy
 
-A simple desktop assistant for managing tasks and information.
+A cute desktop companion that keeps me company while I code and study.
